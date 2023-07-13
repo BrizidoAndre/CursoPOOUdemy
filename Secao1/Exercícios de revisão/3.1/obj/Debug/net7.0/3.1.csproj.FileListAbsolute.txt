@@ -1,0 +1,15 @@
+C:\Users\Basilios\Documents\docs André\Cursos\Programação C# POO\Secao1\Exercícios de revisão\3.1\bin\Debug\net7.0\3.1.exe
+C:\Users\Basilios\Documents\docs André\Cursos\Programação C# POO\Secao1\Exercícios de revisão\3.1\bin\Debug\net7.0\3.1.deps.json
+C:\Users\Basilios\Documents\docs André\Cursos\Programação C# POO\Secao1\Exercícios de revisão\3.1\bin\Debug\net7.0\3.1.runtimeconfig.json
+C:\Users\Basilios\Documents\docs André\Cursos\Programação C# POO\Secao1\Exercícios de revisão\3.1\bin\Debug\net7.0\3.1.dll
+C:\Users\Basilios\Documents\docs André\Cursos\Programação C# POO\Secao1\Exercícios de revisão\3.1\bin\Debug\net7.0\3.1.pdb
+C:\Users\Basilios\Documents\docs André\Cursos\Programação C# POO\Secao1\Exercícios de revisão\3.1\obj\Debug\net7.0\3.1.csproj.AssemblyReference.cache
+C:\Users\Basilios\Documents\docs André\Cursos\Programação C# POO\Secao1\Exercícios de revisão\3.1\obj\Debug\net7.0\3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Basilios\Documents\docs André\Cursos\Programação C# POO\Secao1\Exercícios de revisão\3.1\obj\Debug\net7.0\3.1.AssemblyInfoInputs.cache
+C:\Users\Basilios\Documents\docs André\Cursos\Programação C# POO\Secao1\Exercícios de revisão\3.1\obj\Debug\net7.0\3.1.AssemblyInfo.cs
+C:\Users\Basilios\Documents\docs André\Cursos\Programação C# POO\Secao1\Exercícios de revisão\3.1\obj\Debug\net7.0\3.1.csproj.CoreCompileInputs.cache
+C:\Users\Basilios\Documents\docs André\Cursos\Programação C# POO\Secao1\Exercícios de revisão\3.1\obj\Debug\net7.0\3.1.dll
+C:\Users\Basilios\Documents\docs André\Cursos\Programação C# POO\Secao1\Exercícios de revisão\3.1\obj\Debug\net7.0\refint\3.1.dll
+C:\Users\Basilios\Documents\docs André\Cursos\Programação C# POO\Secao1\Exercícios de revisão\3.1\obj\Debug\net7.0\3.1.pdb
+C:\Users\Basilios\Documents\docs André\Cursos\Programação C# POO\Secao1\Exercícios de revisão\3.1\obj\Debug\net7.0\3.1.genruntimeconfig.cache
+C:\Users\Basilios\Documents\docs André\Cursos\Programação C# POO\Secao1\Exercícios de revisão\3.1\obj\Debug\net7.0\ref\3.1.dll
